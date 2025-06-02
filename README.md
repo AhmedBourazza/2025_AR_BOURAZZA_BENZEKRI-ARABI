@@ -15,6 +15,9 @@ L’objectif principal est de proposer une expérience intuitive, immersive et a
 - Affichage en temps réel du score et de la distance.
 - Effets sonores et vibrations pour améliorer l’immersion.
 
+## Lien de la video demo
+https://www.youtube.com/shorts/AsBeLbgxD6g
+
 ## Auteurs
 
 - **Ibrahim BENZEKRI ARABI**
